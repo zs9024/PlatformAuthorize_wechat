@@ -1,0 +1,25 @@
+{
+  "name": "wechatauth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "account_server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zs9024/PlatformAuthorize_wechat.git"
+  },
+  "keywords": [
+    "wechat"
+  ],
+  "author": "waking",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zs9024/PlatformAuthorize_wechat/issues"
+  },
+  "homepage": "https://github.com/zs9024/PlatformAuthorize_wechat#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
