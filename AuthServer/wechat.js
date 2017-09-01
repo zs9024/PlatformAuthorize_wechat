@@ -29,8 +29,8 @@ app.all('*', function(req, res, next) {
 
 var appInfo = {
 	Android:{
-		appid:"wxbbbdfeb6dc167cc8",					//改成自己的id
-		secret:"8fb2da1722fbd92779bce6a5053dc534",	//改成自己的secret
+		appid:"",					//改成自己的id
+		secret:"",	//改成自己的secret
 	},
 	iOS:{	
 		appid:"wx",		//同上
